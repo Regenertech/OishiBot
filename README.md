@@ -1,6 +1,6 @@
 # OishiBot
 An interactive anime girl with chatting capabilities
-- [What is this?](#What is this?)
+- [What is this?](#What-is-this?)
 - [Goals](#Goals)
 
 # What is this?
